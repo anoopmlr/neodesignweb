@@ -1,0 +1,45 @@
+#about-header {
+    margin-top: 75px;
+}
+
+#about-header {
+    background-image: url("/assets/img/staff/about-header-img.jpg");
+}
+
+.header-box {
+    height: 200px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-box h2 {
+    color: white;
+}
+
+.md-message-row img {
+    width: 80%;
+    border-radius: 15px;
+}
+
+.md-message-card {
+    border-radius: 15px;
+}
+
+/* Vision and mission */
+
+.mission-row img {
+    border-radius: 15px;
+}
+
+.vision-row img {
+    border-radius: 15px;
+}
+
+.mission-img {
+    width: 95%;
+}
+
+.vision-img {
+    width: 95%;
+}

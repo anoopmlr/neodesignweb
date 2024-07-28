@@ -1,0 +1,101 @@
+section {
+    margin-top: 85px;
+}
+
+.header-box {
+    background-image: url("/assets/img/blog/eco-friendly-living.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#blog-header {
+    margin-top: 150px;
+}
+
+#blog-header {
+    background-image: url("/assets/img/blog/blog-header.jpg");
+}
+
+.header-box {
+    height: 200px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-box h2 {
+    color: white;
+}
+
+.blog-img {
+    border-radius: 15px;
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel-caption h3 {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.carousel-caption p {
+    font-size: 1.2rem;
+}
+
+.screen {
+    background-color: black;
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    opacity: 0.4;
+    border-radius: 15px;
+}
+
+#slide-blog-1 {
+    background-image: url("/assets/img/blog/10_benifits_of_making_3d_designs.jpeg");
+    
+}
+
+#slide-blog-2 {
+    background-image: url("/assets/img/blog/15_new_design_ideas.png");
+}
+
+#slide-blog-3 {
+    background-image: url("/assets/img/blog/13_ideas_to_reduce_the_cost.jpg");
+}
+
+.paging {
+    width: 30px;
+    aspect-ratio: 1 / 1;
+    border: none;
+    color: var(--primary-color);
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 1.2rem;
+}
+
+#page-1 {
+    background-color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+    color: white;
+}
+
+#page-2 {
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+}
+
+#page-3 {
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+}
+
+.paging-arrow {
+    border: none;
+    color: var(--primary-color);
+    font-size: 1rem;
+}

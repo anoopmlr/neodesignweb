@@ -1,0 +1,53 @@
+.call-to-action-btn {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+#contact-content {
+    margin-top: 75px;
+}
+
+#contact-header {
+    background-image: url("/assets/img/contact/contact-header.jpg");
+}
+
+.header-box {
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-box h2 {
+    color: white;
+}
+
+#contact-submit {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.form-box{
+    width: 60%;
+    border-radius: 15px;
+}
+
+#submit-success {
+    width: 100%;
+    height: auto;
+    display: none;
+}
+
+label {
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+@media only screen and (max-width: 767px) {
+
+   .form-box {
+    width: 100%;
+   }
+}
